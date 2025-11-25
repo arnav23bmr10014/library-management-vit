@@ -91,27 +91,7 @@ Try to Checkout the same book again.
 
 Verify the system displays an [ERROR] message stating the item is already checked out.
 
-Screenshots
-
-(Note: As this is a CLI application, "screenshots" refer to the console output)
-
-Main Menu:
-
-=== Advanced Library System ===
-
---- MENU ---
-1. List Inventory
-2. List Patrons
-3. Add Item (Book/DVD)
-4. Register Patron
-5. Checkout Item
-6. Return Item
-7. Exit
-Choice:
 
 
-Successful Transaction Output:
 
-[SUCCESS] Patron registered: Alice Smith
-[SUCCESS] Alice Smith borrowed The Hobbit
 
